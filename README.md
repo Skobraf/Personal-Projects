@@ -5,3 +5,5 @@ https://github.com/Skobraf/ProteinTracker-ChromeExtension
 https://codesandbox.io/s/vmy8n8pkyy
 ## Indecision todo app 
 https://codesandbox.io/s/v0765q46v5
+## Generic Object JSON
+https://codesandbox.io/s/n4y1pjklxm
