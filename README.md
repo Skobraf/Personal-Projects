@@ -2,7 +2,7 @@
 
 ## Nested dataSctructue access without making mutation
  * LivePreview: https://codesandbox.io/s/distracted-lake-mbpe5
- *GithubRepo: https://github.com/Skobraf/Sanad-test
+ * GithubRepo: https://github.com/Skobraf/Sanad-test
 ## Job listing App (Vue.js, Vuex.js)
 * LivePreview: https://loving-easley-a030b0.netlify.com/
 ## Chrome extention to calculat Protein
