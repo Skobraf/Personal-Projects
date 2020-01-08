@@ -7,13 +7,14 @@
 ## Job listing App (Vue.js, Vuex.js)
 * LivePreview: https://loving-easley-a030b0.netlify.com/
 * The app is a single page app using Vue.js and VueX to handle the state, the user of the app needs to select the diplomas and exeperience he has, the it will match him with the available job offers, where he can also apply for these jobs. the app is smooth when it comes to navigation when switching between job categories.
-## Chrome extention to calculat Protein
-* https://github.com/Skobraf/ProteinTracker-ChromeExtension 
 ## Fetching github users (React, React-Hooks, GraphQl, Apollo)
 * LivePreview: https://codesandbox.io/s/p53kn3vwpj
 * LivePreview: https://codesandbox.io/s/4rqj15zl7x
 * GithubRepo: https://github.com/Skobraf/GraphQl-Github-API
 * This project is to list the most starred repos of github using github API, the project is made with REST API also with GraphQl Api from Github. it show the owner of the repo and the number of stars. for extra feature, The pagination is made using Scroll not button
+## NextStore (Full Stack app/ Next.js, GraphQl, Prisma, Apollo)
+* GihubRepo: https://github.com/Skobraf/Next-Store
+* The app is from WesBos Advanced React course, The app is a store where the user sell his goods and manage project in addition to security for payment methods, for used technologies: Next.js, ApolloClient, Prisma, GraphQl for query.
 ## Indecision todo app (React.js)
 * LivePreview: https://codesandbox.io/s/v0765q46v5
 * GithubRepo: https://github.com/Skobraf/Indecision-app
