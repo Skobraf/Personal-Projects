@@ -3,9 +3,10 @@
 ## Nested dataSctructue access without making mutation
  * LivePreview: https://codesandbox.io/s/distracted-lake-mbpe5
  * GithubRepo: https://github.com/Skobraf/Sanad-test
- (the idea is to be able to access and add, update or remove deep nested data without mutation, and have the resulat as JSON)
+ * the idea is to be able to access and add, update or remove deep nested data without mutation, and have the resulat as JSON. The app is      using only react in addition to immutable librarie.
 ## Job listing App (Vue.js, Vuex.js)
 * LivePreview: https://loving-easley-a030b0.netlify.com/
+* The app is a single page app using Vue.js and VueX to handle the state, the user of the app needs to select the diplomas and exeperience he has, the it will match him with the available job offers, where he can also apply for these jobs. the app is smooth when it comes to navigation when switching between job categories.
 ## Chrome extention to calculat Protein
 * https://github.com/Skobraf/ProteinTracker-ChromeExtension 
 ## Fetching github users (React, React-Hooks, GraphQl, Apollo)
