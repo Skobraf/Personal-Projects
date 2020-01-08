@@ -13,11 +13,14 @@
 * LivePreview: https://codesandbox.io/s/p53kn3vwpj
 * LivePreview: https://codesandbox.io/s/4rqj15zl7x
 * GithubRepo: https://github.com/Skobraf/GraphQl-Github-API
+* This project is to list the most starred repos of github using github API, the project is made with REST API also with GraphQl Api from Github. it show the owner of the repo and the number of stars. for extra feature, The pagination is made using Scroll not button
 ## Indecision todo app (React.js)
 * LivePreview: https://codesandbox.io/s/v0765q46v5
 * GithubRepo: https://github.com/Skobraf/Indecision-app
 ## Insta Clone (React & Redux)
 * LivePreview: https://codesandbox.io/s/zzpr07r3x
 * GithubRepo: https://github.com/Skobraf/InstaClone/tree/master/learn-redux/client
+* Small clone of instagram using React and Redux, where user is able to add commments and likes to posts and display posts from friends in the feed.
 ## Expensify App (React & Redux)
 * GithubRepo: https://github.com/Skobraf/React-Redux-Expensify-app
+* This is a small store created using React & Redux where user can buy & manage the goods he is buying
