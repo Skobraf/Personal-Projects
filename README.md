@@ -25,3 +25,9 @@
 ## Expensify App (React & Redux)
 * GithubRepo: https://github.com/Skobraf/React-Redux-Expensify-app
 * This is a small store created using React & Redux where user can buy & manage the goods he is buying
+## random quotes
+* GithubRepo: https://github.com/Skobraf/Random-quotes
+* Random quotes machine from FREECODCAMP Front end coding challenge, using REST API to fetch data to state.
+## Algorithms & DataSctucture from CodeFights
+* GithubRepo: https://github.com/Skobraf/CodeFights
+* Profile: https://app.codesignal.com/profile/ayoub_a3
